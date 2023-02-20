@@ -4,9 +4,6 @@ import Website1 from "./web1";
 import Website2 from "./web2";
 import Website3 from "./web3";
 
-// import Child from "./props practise/props";
-// import Child2 from "./props practise/props2";
-// import Child3 from "./props practise/props3";
 
 
 
@@ -41,9 +38,7 @@ class Mack extends Component{
      render(){
         return(
           <div className="global">
-          {/* <Child onClick={this.onClick} message={this.state.message}/>
-          <Child2 message={'Hello'}/> */}
-          {/* <Child3 onClick={this.onClick} message={this.state.message}/>     */}
+         
            <Website1 onClick={this.handleButtonClick} display={this.state.display}/>
            <Website2/>
            <Website3/>
