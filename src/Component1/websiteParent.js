@@ -62,46 +62,5 @@ class Mack extends Component{
     
     
     
-    // class App extends Component {
-    //    constructor(props){
-    //     super(props);
-    //     this.state={
-    //       name: "",
-    //       adharId: "",
-    //       email: "",
-    //       password: ""
-    //     }
-    //    };
-      
-      
-    //   handleSubmit=(event) =>{
-    //     event.preventDefault();
-    //     console.log("Name", this.state.name);
-    //     console.log("AdarId", this.state.adharId);
-    //     console.log("Email", this.state.email);
-    //     console.log("Password", this.state.password);
-    //   };
-      
-    //   handleChange=(event)=>{
-    //     this.setState({
-    //       [event.target.name]: event.target.value
-    //     })
-    //   };
-    
-    
-    //   render(){
-    //     return(
-    //       <div>
-    //     <Child1 name={this.state.name} adharId={this.state.adharId} 
-    //     email={this.state.email} password={this.state.password} 
-    //     handleChange={this.handleChange} handleSubmit={this.handleSubmit}/>
-    
-         
-    //       </div>
-    //     )
-    //   };
-    // }
-    
-    
     
     
