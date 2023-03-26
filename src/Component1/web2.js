@@ -21,6 +21,6 @@ In essence, programming is the art of using computers to perform tasks that woul
                 
             </div>
         )
-    }
+    } 
 }
 export default Website2
